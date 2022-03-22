@@ -43,7 +43,7 @@ If you want to contact me, please leave me a message!
 
 ### ✨ Summary
 
-- 🔭 I’m worked on winitech as a backend developer.
+- 🔭 I worked on winitech as a backend developer.
 <!-- - 🌱 I'm currently learning ~. -->
 - 📝 I regularly write articles on [my blog](https://mong-dev.tistory.com).  
 
